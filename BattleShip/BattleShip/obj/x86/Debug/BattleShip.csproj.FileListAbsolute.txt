@@ -1,0 +1,32 @@
+C:\Users\user\AppData\Local\Temporary Projects\BattleShip\bin\Debug\BattleShip.exe
+C:\Users\user\AppData\Local\Temporary Projects\BattleShip\bin\Debug\BattleShip.pdb
+C:\Users\user\AppData\Local\Temporary Projects\BattleShip\obj\x86\Debug\BattleShip.Properties.Resources.resources
+C:\Users\user\AppData\Local\Temporary Projects\BattleShip\obj\x86\Debug\BattleShip.csproj.GenerateResource.Cache
+C:\Users\user\AppData\Local\Temporary Projects\BattleShip\obj\x86\Debug\BattleShip.exe
+C:\Users\user\AppData\Local\Temporary Projects\BattleShip\obj\x86\Debug\BattleShip.pdb
+C:\Users\user\AppData\Local\Temporary Projects\BattleShip\obj\x86\Debug\BattleShip.Play.resources
+C:\Users\user\AppData\Local\Temporary Projects\BattleShip\obj\x86\Debug\BattleShip.main_menu.resources
+D:\Projects\Visual C# 2010\BattleShip\BattleShip\obj\x86\Debug\BattleShip.exe
+D:\Projects\Visual C# 2010\BattleShip\BattleShip\obj\x86\Debug\BattleShip.pdb
+D:\Projects\Visual C# 2010\BattleShip\BattleShip\bin\Debug\BattleShip.exe
+D:\Projects\Visual C# 2010\BattleShip\BattleShip\bin\Debug\BattleShip.pdb
+D:\Projects\Visual C# 2010\BattleShip\BattleShip\obj\x86\Debug\BattleShip.main_menu.resources
+D:\Projects\Visual C# 2010\BattleShip\BattleShip\obj\x86\Debug\BattleShip.Play.resources
+D:\Projects\Visual C# 2010\BattleShip\BattleShip\obj\x86\Debug\BattleShip.Properties.Resources.resources
+D:\Projects\Visual C# 2010\BattleShip\BattleShip\obj\x86\Debug\BattleShip.csproj.GenerateResource.Cache
+D:\Projects\Visual C# 2010\BattleShip\BattleShip\obj\x86\Debug\BattleShip.csprojAssemblyReference.cache
+D:\Projects\Visual C# 2010\BattleShip\BattleShip\obj\x86\Debug\BattleShip.csproj.CoreCompileInputs.cache
+D:\Projects\Visual C# 2010\BattleShip\BattleShip\obj\x86\Debug\BattleShip.Credits.resources
+D:\Projects\Visual C# 2010\BattleShip\BattleShip\obj\x86\Debug\BattleShip.Help.resources
+D:\Projects\Projects\Battle Ship\BattleShip\BattleShip\bin\Debug\BattleShip.exe
+D:\Projects\Projects\Battle Ship\BattleShip\BattleShip\bin\Debug\BattleShip.pdb
+D:\Projects\Projects\Battle Ship\BattleShip\BattleShip\obj\x86\Debug\BattleShip.csprojAssemblyReference.cache
+D:\Projects\Projects\Battle Ship\BattleShip\BattleShip\obj\x86\Debug\BattleShip.main_menu.resources
+D:\Projects\Projects\Battle Ship\BattleShip\BattleShip\obj\x86\Debug\BattleShip.Credits.resources
+D:\Projects\Projects\Battle Ship\BattleShip\BattleShip\obj\x86\Debug\BattleShip.Help.resources
+D:\Projects\Projects\Battle Ship\BattleShip\BattleShip\obj\x86\Debug\BattleShip.Play.resources
+D:\Projects\Projects\Battle Ship\BattleShip\BattleShip\obj\x86\Debug\BattleShip.Properties.Resources.resources
+D:\Projects\Projects\Battle Ship\BattleShip\BattleShip\obj\x86\Debug\BattleShip.csproj.GenerateResource.cache
+D:\Projects\Projects\Battle Ship\BattleShip\BattleShip\obj\x86\Debug\BattleShip.csproj.CoreCompileInputs.cache
+D:\Projects\Projects\Battle Ship\BattleShip\BattleShip\obj\x86\Debug\BattleShip.exe
+D:\Projects\Projects\Battle Ship\BattleShip\BattleShip\obj\x86\Debug\BattleShip.pdb
